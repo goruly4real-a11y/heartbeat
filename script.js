@@ -105,7 +105,7 @@
 
     let isLetterOpen = false;
     let isLetterTyping = false;
-    const letterText = "Dear Sophia,\n\nI coded this heartbeat for you...\n\nEvery line of code, every pixel, and every beat is a reminder of how much you mean to me.\n\nNo matter where life takes us, my heart will always run in an infinite loop for you, beating forever 💗.";
+    const letterText = "Dear Aisha,\n\nI coded this heartbeat for you...\n\nEvery line of code, every pixel, and every beat is a reminder of how much you mean to me.\n\nNo matter where life takes us, my heart will always run in an infinite loop for you, beating forever 💗.";
 
     function openLetter() {
         if (isLetterOpen) return;
